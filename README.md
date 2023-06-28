@@ -5,6 +5,11 @@ A FLutter Project.
 | Splash                                      | Login                                     | Signup                                      |
 | ------------------------------------------- | ------------------------------------------- | -------------------------------------------- |
 | ![Splash](https://github.com/Noman050/Tasbeeh_App/assets/107186063/80e6770a-4326-44a4-871a-354defb4f932) | ![Login](https://github.com/Noman050/Tasbeeh_App/assets/107186063/3b18a51f-5eb7-48c4-a475-5d27fd04d0ed) | ![Signup](https://github.com/Noman050/Tasbeeh_App/assets/107186063/c3edc757-5225-429b-9ddc-9bec3adbe2dd) |
+| Login Light Theme                                     | Signup Light Theme                                     | Functional Alarm                                      |
+| ![Screenshot_2023-06-28-17-37-09-642_com example tasbeeh_app](https://github.com/Noman050/Tasbeeh_App/assets/107186063/a3c295ce-ade9-45df-b590-bd72eac15770)
+ | ![Screenshot_2023-06-28-17-37-12-610_com example tasbeeh_app](https://github.com/Noman050/Tasbeeh_App/assets/107186063/1f9376c3-5dc9-4f8e-ac96-f077704f878c)
+|![Screenshot_2023-06-28-17-37-44-226_com example tasbeeh_app](https://github.com/Noman050/Tasbeeh_App/assets/107186063/a59c3e53-01ac-43af-8c15-d39c7d036a63)
+ |
 | Home                                      | Tasbeeh Options                                     | Add Tasbeeh                                      |
 | ![Home](https://github.com/Noman050/Tasbeeh_App/assets/107186063/fe8fb735-6600-48db-8d20-4c9c4468ae25) | ![Tasbeeh Options](https://github.com/Noman050/Tasbeeh_App/assets/107186063/ba3701a2-97bc-4239-8065-ad0c277684ba) | ![Add Tasbeeh](https://github.com/Noman050/Tasbeeh_App/assets/107186063/a16630eb-10bb-4687-9aec-fa02b3d15ff6) |
 | Choose Tasbheeh                                      | Count Tasbeeh                                     | View Tasbeeh                                      |
