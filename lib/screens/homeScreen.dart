@@ -88,7 +88,7 @@ class _HomeScreenState extends State<HomeScreen> {
             InkWell(
               onTap: (){
                 Navigator.push(context,
-                    MaterialPageRoute(builder: (context) => const AzaanScreen()));
+                    MaterialPageRoute(builder: (context) =>  AzaanScreen()));
               },
               child: Material(
                 color: buttonColor,

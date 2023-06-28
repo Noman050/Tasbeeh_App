@@ -28,7 +28,9 @@ class _SignupScreenState extends State<SignupScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: white54Color,
       appBar: AppBar(
+        backgroundColor: white30Color,
         title: const Text('Signup Screen'),
       ),
       body: SafeArea(
@@ -39,7 +41,7 @@ class _SignupScreenState extends State<SignupScreen> {
                 padding: EdgeInsets.all(15.0),
                 child: CircleAvatar(
                   backgroundColor: whiteColor,
-                  radius: 65.0,
+                  radius: 60.0,
                   backgroundImage: AssetImage('assets/images/loginn.png'),
                 ),
               ),
@@ -47,8 +49,8 @@ class _SignupScreenState extends State<SignupScreen> {
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(30),
                 ),
-                elevation: 10,
-                shadowColor: white30Color,
+                elevation: 5,
+                shadowColor: whiteColor,
                 color: Colors.transparent,
                 child: Padding(
                   padding: const EdgeInsets.all(20),
@@ -192,7 +194,7 @@ class _SignupScreenState extends State<SignupScreen> {
                           height: 120,
                         ),
                         const Center(
-                            child: Text('Developed by Noman Ali (FA19-BSE-050)',style: TextStyle(fontSize: 15, color: whiteColor, letterSpacing: 1, fontWeight: FontWeight.bold),),
+                            child: Text('Developed by Noman Ali (FA19-BSE-050)',style: TextStyle(fontSize: 15, color: buttonColor, letterSpacing: 1, fontWeight: FontWeight.bold),),
                           ),
                       ],
                     ),

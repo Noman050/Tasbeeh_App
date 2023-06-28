@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:splash_screen_view/SplashScreenView.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:tasbeeh_app/screens/azaanScreen.dart';
 
 import 'constants/colors.dart';
 import 'screens/loginScreen.dart';
@@ -25,7 +26,7 @@ class TasbeehApp extends StatelessWidget {
     return Scaffold(
           body:
           SplashScreenView(
-            navigateRoute: const LoginScreen(),
+            navigateRoute:  AzaanScreen(),
             duration: 4000,
             imageSize: 200,
             imageSrc: "assets/images/tasbeeh1.png",
