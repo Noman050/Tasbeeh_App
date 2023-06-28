@@ -10,11 +10,7 @@ A FLutter Project.
 | Choose Tasbheeh                                      | Count Tasbeeh                                     | View Tasbeeh                                      |
 | ![Choose Tasbeeh](https://github.com/Noman050/Tasbeeh_App/assets/107186063/2612bd79-7147-4714-af1c-486fe8fbf634) | ![Count Tasbeeh](https://github.com/Noman050/Tasbeeh_App/assets/107186063/31a68643-5dec-40b1-abe5-d4bff036c7be) | ![View Tasbeeh](https://github.com/Noman050/Tasbeeh_App/assets/107186063/2951a5ba-50de-4a33-b4c0-13201fa13cc7) |
 | Adhan Alarm                                     |                                             |                                              |
-| ![Adhan Alarm](https://github.com/Noman050/Tasbeeh_App/assets/107186063/78d1b100-1a1b-42b2-a3a1-d3abc276abe9) |                                           |    ![Screenshot_2023-06-28-17-38-05-943_com example tasbeeh_app](https://github.com/Noman050/Tasbeeh_App/assets/107186063/ca5883d9-c3b8-4201-85ce-464da8bc481c)
-![Screenshot_2023-06-28-17-37-09-642_com example tasbeeh_app](https://github.com/Noman050/Tasbeeh_App/assets/107186063/60e9a347-17fa-4697-a335-0237942a2137)
-![Screenshot_2023-06-28-17-37-12-610_com example tasbeeh_app](https://github.com/Noman050/Tasbeeh_App/assets/107186063/d0496d84-22cb-45d4-93ef-03138938491c)
-![Screenshot_2023-06-28-17-37-44-226_com example tasbeeh_app](https://github.com/Noman050/Tasbeeh_App/assets/107186063/218e0255-5fee-4c1d-9cab-bcd5783fdfad)
-                                          |
+| ![Adhan Alarm](https://github.com/Noman050/Tasbeeh_App/assets/107186063/78d1b100-1a1b-42b2-a3a1-d3abc276abe9) |                                           |                          |
 
 
 
